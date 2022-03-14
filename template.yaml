@@ -1,0 +1,8 @@
+AWSTemplateFormatversion: '2010-09-09'
+
+Transform: AWS:Serverless-2010-10-31
+
+
+Output: 
+  Project System 001, demo for te zindey development team
+  
